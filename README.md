@@ -1,0 +1,1 @@
+This is MTSowa, first git project.
